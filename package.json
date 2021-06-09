@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/fsarachu/some-react-component.git"
   },
-  "author": "",
+  "author": "Franco Sarachu <fsarachu@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fsarachu/some-react-component/issues"
